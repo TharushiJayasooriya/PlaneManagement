@@ -1,0 +1,4 @@
+Row: a
+Seat: 11
+Price: 180.0Person info:  
+name='qwqw', surname='zjjaj', email='jimjm'
